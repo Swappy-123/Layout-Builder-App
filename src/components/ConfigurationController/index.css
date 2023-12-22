@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.bg {
+  background-color: #475569;
+  height: 15vh;
+  width: 100%;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  color: white;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin: 5px;
+}
+
+.para {
+  color: white;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin: 5px;
+}
